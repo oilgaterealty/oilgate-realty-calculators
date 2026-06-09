@@ -73,10 +73,12 @@ The redirect rule ensures the SPA works correctly on all routes.
 
 ## Live URL
 
-After deployment, update this file with the final URL:
+**Production URL:** https://oilgate-realty-calculators.netlify.app ✅ (deployed 2026-06-09)
 
-**Production URL:** `https://oilgate-realty-calculators.netlify.app`
-(or your custom domain if configured)
+- **Netlify team:** Oilgate AI (`oilgaterealty`)
+- **Project ID:** `c899566b-b979-40b9-8d37-09f84ec74b9c`
+- **Admin URL:** https://app.netlify.com/projects/oilgate-realty-calculators
+- The local folder is linked to this site (`.netlify/` folder, gitignored), so future deploys are just `netlify deploy --prod --dir=dist`.
 
 ---
 

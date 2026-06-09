@@ -2,7 +2,7 @@
 
 Free real estate calculators for buyers, owners, and investors — built for quick decision-making.
 
-**Live site:** https://oilgate-realty-calculators.netlify.app (update after deploy)
+**Live site:** https://oilgate-realty-calculators.netlify.app
 
 ---
 
