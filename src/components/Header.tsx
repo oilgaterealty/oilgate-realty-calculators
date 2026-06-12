@@ -1,7 +1,7 @@
 export function Header() {
   return (
     <header className="bg-ogr-navy shadow-md">
-      <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+      <div className="max-w-6xl mx-auto px-4 py-2 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img
             src="/ogr-logo.png"

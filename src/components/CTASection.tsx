@@ -1,11 +1,11 @@
 export function CTASection() {
   return (
-    <section id="contact" className="py-16 px-4 bg-ogr-navy">
+    <section id="contact" className="py-8 px-4 bg-ogr-navy">
       <div className="max-w-3xl mx-auto text-center">
         <img
           src="/ogr-logo.png"
           alt="Oilgate Realty"
-          className="h-64 w-auto mx-auto mb-6 brightness-0 invert"
+          className="h-64 w-auto mx-auto mb-2 brightness-0 invert"
         />
         <h2 className="text-2xl sm:text-3xl font-bold text-white">
           Need Help Analyzing a Deal?
