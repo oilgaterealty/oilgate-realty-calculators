@@ -1,6 +1,6 @@
 export function Hero() {
   return (
-    <section className="bg-gradient-to-b from-ogr-navy to-ogr-navy-light py-12 px-4">
+    <section className="bg-gradient-to-b from-ogr-navy to-ogr-navy-light py-6 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white leading-tight">
           Free Real Estate Calculators
