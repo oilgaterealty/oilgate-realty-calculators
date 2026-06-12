@@ -5,7 +5,7 @@ export function CTASection() {
         <img
           src="/ogr-logo.png"
           alt="Oilgate Realty"
-          className="h-16 w-auto mx-auto mb-6 brightness-0 invert"
+          className="h-64 w-auto mx-auto mb-6 brightness-0 invert"
         />
         <h2 className="text-2xl sm:text-3xl font-bold text-white">
           Need Help Analyzing a Deal?

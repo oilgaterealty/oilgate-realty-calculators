@@ -6,7 +6,7 @@ export function Header() {
           <img
             src="/ogr-logo.png"
             alt="Oilgate Realty"
-            className="h-12 w-auto object-contain brightness-0 invert"
+            className="h-48 w-auto object-contain brightness-0 invert"
           />
         </div>
         <nav className="hidden sm:flex items-center gap-6 text-sm">
